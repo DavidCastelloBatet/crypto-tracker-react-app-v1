@@ -1,4 +1,4 @@
-
+import './Coin.css'
 const Coin = ({
   image,
   name,
